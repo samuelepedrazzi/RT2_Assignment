@@ -1,0 +1,10 @@
+<map id="src/achieveGoalPosition.cpp" name="src/achieveGoalPosition.cpp">
+<area shape="rect" id="node1" title="mode to set a goal and allow the robot to reach it on its own" alt="" coords="318,5,523,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,87,84,114"/>
+<area shape="rect" id="node3" title=" " alt="" coords="109,87,175,114"/>
+<area shape="rect" id="node4" title=" " alt="" coords="200,87,271,114"/>
+<area shape="rect" id="node5" title=" " alt="" coords="295,80,547,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="571,80,766,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="791,87,971,114"/>
+<area shape="rect" id="node8" title=" " alt="" coords="995,87,1059,114"/>
+</map>
