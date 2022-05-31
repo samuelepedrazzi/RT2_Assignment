@@ -9,7 +9,7 @@ The Doxygen-generated project documentation may be obtained at the following web
 
 Statistics Analysis
 ------------
-The results of the statistics analysis for the first assignment of Research Track 1, computed with Matlab, can be found in the [__Report__].(https://github.com/samuelepedrazzi/RT2_Assignment/blob/master/Statistics_Analysis.pdf)
+The results of the statistics analysis for the first assignment of Research Track 1, computed with Matlab, can be found in the [__Report__](https://github.com/samuelepedrazzi/RT2_Assignment/blob/master/Statistics_Analysis.pdf).
 
 
 
