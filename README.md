@@ -9,7 +9,7 @@ The Doxygen-generated project documentation may be obtained at the following web
 
 Notebook Jupyter
 ------------
-For the jupyter notebook it is available in the following file:[__Assignment.ipynb__](https://github.com/samuelepedrazzi/RT2_Assignment/blob/master/Assignment.ipynb)
+For the jupyter notebook it is available in the following file: [__Assignment.ipynb__](https://github.com/samuelepedrazzi/RT2_Assignment/blob/master/Assignment.ipynb)
 
 Statistics Analysis
 ------------
