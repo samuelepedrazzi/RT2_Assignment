@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+  <include file="$(find RT2_Assignment)/launch/simulation_gmapping.launch"/>
+  <include file="$(find RT2_Assignment)/launch/move_base.launch"/>
+ 
+ <!-- Run the UI node -->
+  <node pkg="RT2_Assignment" type="UI" respawn="false" name="UI" output="screen" launch-prefix="xterm -e" required="true"/>
+ 
+</launch>
