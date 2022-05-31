@@ -3,13 +3,13 @@ Assignment - Research Track 2
 
 Code Documentation
 ------------
-The project documentation, generated with Doxygen can be found in the following link:
+The Doxygen-generated project documentation may be obtained at the following website:
 
 [__samuelepedrazzi.github.io/RT2_Assignment/index.html__](https://samuelepedrazzi.github.io/RT2_Assignment/index.html)
 
 Data Analysis
 ------------
-The results of the data analysis, computed with Matlab, can be found in the [__Report__](https://github.com/samuelepedrazzi/RT2_Assignment/blob/master/Statistics_Analysis.pdf)
+The results of the statistics analysis for the first assignment of Research Track 1, computed with Matlab, can be found in the [__Report__](https://github.com/samuelepedrazzi/RT2_Assignment/blob/master/Statistics_Analysis.pdf)
 
 -----------------------
 
