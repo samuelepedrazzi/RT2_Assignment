@@ -11,7 +11,8 @@ Data Analysis
 ------------
 The results of the statistics analysis for the first assignment of Research Track 1, computed with Matlab, can be found in the [__Report__](https://github.com/samuelepedrazzi/RT2_Assignment/blob/master/Statistics_Analysis.pdf)
 
------------------------
+-------------
+------------
 
 
 Introduction <img src= "https://media2.giphy.com/media/fLsd17IO7HTCR85bDY/giphy.gif?cid=ecf05e47y9qetlendf7s1str4q1hzuzdr4ykg086vprnnccc&rid=giphy.gif&ct=s" width=100 height=60>
