@@ -1,4 +1,4 @@
-Assignment - Research Track 2
+Research Track 2 - Assignment
 ================================
 
 Code Documentation
